@@ -3,6 +3,9 @@ Example Voting (Instavote) App
 
 Adding sample text
 
+Adding a second text - new version
+
+
 Getting started
 ---------------
 
