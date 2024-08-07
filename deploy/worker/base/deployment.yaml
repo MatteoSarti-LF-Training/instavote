@@ -18,6 +18,6 @@ spec:
         app: worker
     spec:
       containers:
-              - image: schoolofdevops/worker:v1
-        name: worker
+      - image: schoolofdevops/vote:v1
+        name: vote
         resources: {}
